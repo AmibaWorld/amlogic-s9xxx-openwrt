@@ -55,6 +55,6 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 # 使用源码自带ShadowSocksR Plus+出国软件
 #
 # svn co https://github.com/fw876/helloworld.git package/helloworld
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-passwall2
+# git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
+# git clone https://github.com/xiaorouji/openwrt-passwall2.git package/openwrt-passwall2
 # ------------------------------- Other ends -------------------------------
