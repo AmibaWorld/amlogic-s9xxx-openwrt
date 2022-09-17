@@ -17,6 +17,7 @@ on:
         default: "22.03.0"
         type: choice
         options:
+          - 22.04.0
           - 22.03.0
           - 21.02.3
           - 19.07.10
@@ -125,7 +126,7 @@ jobs:
           body: |
             This is OpenWrt firmware for Amlogic s9xxx tv box
             * Firmware information
-            Default IP: 192.168.1.1
+            Default IP: 192.168.1.254
             Default username: root
             Default password: password
             Default WIFI name: OpenWrt
